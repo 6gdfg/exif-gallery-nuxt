@@ -13,14 +13,14 @@
   "r2_buckets": [
     {
       "binding": "BLOB",
-      "bucket_name": "exif-gallery-nuxt"
+      "bucket_name": "gallery"
     }
   ],
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "exif-gallery-nuxt",
-      "database_id": "7c2d4751-a7fd-4721-b85a-2302d5418670",
+      "database_id": "c6073350-9826-4794-97e5-b2eee9a9918a",
       "migrations_dir": "server/db/migrations/sqlite",
       "migrations_table": "_hub_migrations"
     }
